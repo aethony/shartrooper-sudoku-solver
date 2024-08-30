@@ -1,6 +1,6 @@
 **freeCodeCamp** - Quality Assurance 4: Sudoku Solver
 
-### About :
+### About :1
 
 This web application is an automatic Sudoku Solver using `backtracking` as [recursive method](https://www.geeksforgeeks.org/sudoku-backtracking-7/)
   
